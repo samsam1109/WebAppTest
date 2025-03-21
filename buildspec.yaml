@@ -18,4 +18,4 @@ phases:
       - echo Configuring NGINX at `date` 
 artifacts:
   files:
-    -/var/www/html/index.html
+    - /var/www/html/index.html
